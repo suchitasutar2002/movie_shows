@@ -12,3 +12,17 @@
   padding: 10px;
   background-color: aquamarine;
 }
+
+@media screen and (max-eidth:450px) {
+  .left_box{
+    margin: auto;
+  }
+
+  .right_box{
+    margin: auto;
+  }
+
+  .App{
+    display: none;
+  }
+}
